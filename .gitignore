@@ -1,5 +1,7 @@
 
 1/
+to_ignore/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
