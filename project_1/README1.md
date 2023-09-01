@@ -28,8 +28,8 @@
 
 
 ### Файлы для проекта
-* dst-3.0_16_1_hh_database.csv - файл с исходными данными (https://drive.google.com/file/d/1O4joELB3B_oVBxPXtusodte1dQXABzjK/view?usp=drive_link)
-* ExchangeRates.csv - файл с курсами валют на дату (https://drive.google.com/file/d/12zTBJIGf_EIjeBkuhdp88wEg-93xmiXq/view?usp=drive_link)
+* dst-3.0_16_1_hh_database.csv - файл с исходными данными [данные](https://drive.google.com/file/d/1O4joELB3B_oVBxPXtusodte1dQXABzjK/view?usp=drive_link)
+* ExchangeRates.csv - файл с курсами валют на дату [данные](https://drive.google.com/file/d/12zTBJIGf_EIjeBkuhdp88wEg-93xmiXq/view?usp=drive_link)
 
 
 **Признаки**
@@ -102,6 +102,6 @@
 
 
 
-Буду рад зведочке сверху ⭐️⭐️⭐️
+Буду рада зведочке сверху ⭐️⭐️⭐️
 
 :arrow_up:<a href ="#0">к оглавлению</a>
