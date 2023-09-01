@@ -64,7 +64,8 @@
 <a id = '5'></a>
    1. Решение оформляется только в Jupyter Notebook
    2. Решение оформляется в соответствии с ноутбуком-шаблоном
-   3. Данные датасета сохранены отдельно.
+   3. Исходные данные (датасеты) сохранены [отдельно](https://drive.google.com/drive/folders/1KgrMuZNLEA06iEYcAyuop373fuf9qae8)
+   4. Графики plotly сохранены [отдельно](https://github.com/Evgky/sf_ds/tree/main/project_1/HTML)
 
 
 [к оглавлению](README1.md#Оглавление) 
