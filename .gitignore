@@ -3,6 +3,8 @@
 to_ignore/
 project_1/data
 
+*.DS_Store
+._*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
